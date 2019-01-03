@@ -6,5 +6,7 @@
 
 ### MySql commands
 mysql>
+
 > create database tablename;
+
 > show databases;
