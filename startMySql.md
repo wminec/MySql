@@ -5,9 +5,6 @@
 4. type command "mysql -uroot -p"
 
 ### MySql commands
-
 mysql>
-
- create database tablename;
-        
- show databases;
+> create database tablename;
+> show databases;
