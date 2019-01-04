@@ -25,5 +25,11 @@
 	<dd>use topic;</dd>
 	<dd>create table topic(id INT(11) NOT NULL AUTO_INCREMENT, title VARCHAR(100) NOT NULL, description TEXT NULL, created DATETIME NOT NULL,     author VARCHAR(15) NULL, profile VARCHAR(200) NULL, PRIMARY KEY(id));</dd>
 	<dd>show tables;</dd>
-	<dd>drop tables topic;</dd>
+	<dd>DROP tables topic;</dd>
+	<dd>DESC topic; (*show table data)</dd>
+	<dd>insert into topic (title, description, created, author, profile) values('MySQL', 'MySQL is ...', now(), 'egoing', 'developer');</dd>
+	<dd>SELECT * FROM topic;</dd>
+	<dd>SELECT id, title, created, author from topic where author='egoing' order by id desc LIMIT 2;</dd>
+	<dd>UPDATE topic SET description='Oracle is' , title='Oracle' where id=2;</dd>
+	<dd>DELETE FROM topic where id=5;</dd>
  </dl>
