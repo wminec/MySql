@@ -15,7 +15,7 @@
 
 
 ### MySql commands
-**search cheat sheet! forexample: "create table in mysql cheat sheet"**
+**search cheat sheet! for example: "create table in mysql cheat sheet"**
 <dl>
   <dt>mysql</dt>
   <dd>create database tablename;</dd>
