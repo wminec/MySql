@@ -15,7 +15,7 @@
 
 
 ### MySql commands
-**search cheat sheet! for example: "create table in mysql cheat sheet"**
+**search cheat sheet! for example: "create table in mysql cheat sheet", "how to read row in mysql" ,etc...**
 <dl>
   <dt>mysql></dt>
   <dd>create database tablename;</dd>
