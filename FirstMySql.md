@@ -34,6 +34,8 @@
 	<dd>DELETE FROM topic where id=5;</dd>
  </dl>
 
+----
+
 If want use java or python or other language, search "java mysql api", "python mysql api", etc...
 
 If interested in backup, search mysql dump or binary log.
